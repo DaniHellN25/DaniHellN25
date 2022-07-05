@@ -16,7 +16,7 @@
          
 🌱 I’m currently learning about AI and Machine Learning, and also I'm continously improving my current skills working in personal projects.
 
-🕹 My hobbies are playing videogames, coding, reading(about different topics), and watch series and movies.
+🕹 My hobbies are playing videogames, coding, reading(about different topics), and watching series and movies.
 
 📫 You can email me at: danihellnovelo18@gmail.com
          
