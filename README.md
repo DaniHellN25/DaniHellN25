@@ -7,9 +7,9 @@
 
 <div aligh='left'>
          
-🎮 I'm really passionate about several things but... two of those things are: Programming and videogames. I'm a graduated Full Stack Developer, but I'm more curious about backend.For me almost everything is a puzzle to solve and that's something that encourage me to solve them. Oh, and I work with agile methodologies too.
+🎮 I'm really passionate about several things but... two of those things are: Programming and videogames. I'm a graduated Full Stack Developer, but I'm more curious about backend. For me almost everything is a puzzle to solve and that's something that encourage me to solve them. Oh, and I work with agile methodologies too.
          
-🏆 I've met some amazing people so far, and I've had the privilage to code with some of them which was a really fulfilling experience that help with grown as a person and as a developer.
+🏆 I've met some amazing people so far, and I've had the privilage to code with some of them which was a really fulfilling experience that helped me with grown as a person and as a developer.
 </br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
          
 🎓 Full Stack Developer & Bachelor's degree in gastronomy.
