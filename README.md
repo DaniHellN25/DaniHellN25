@@ -18,7 +18,7 @@
 
 🕹 My hobbies are playing videogames, coding, reading(about different topics), and watching series and movies.
 
-📫 You can email me at: danihellnovelo18@gmail.com
+📫 You can email me at: daniel.novelo.dev@gmail.com
          
 </div>
 
