@@ -5,7 +5,7 @@
 
 #### Hey World, Dani here.
 
-<div aligh='left'>
+<div align='left'>
          
 🎮 I'm really passionate about several things but... two of those things are: Programming and videogames. I'm a graduated Full Stack Developer, but I'm more curious about backend. For me almost everything is a puzzle to solve and that's something that encourage me to solve them. Oh, and I work with agile methodologies too.
          
