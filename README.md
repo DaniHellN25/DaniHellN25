@@ -62,8 +62,8 @@
 ---
 
 ### Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:start-->
+<!--END_SECTION:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Monday, August 11th, 2025, 3:15:02 PM
