@@ -7,18 +7,18 @@
 
 <div align='left'>
          
-🎮 I'm really passionate about several things but... two of those things are: Programming and videogames. I'm a graduated Full Stack Developer, but I'm more curious about backend. For me almost everything is a puzzle to solve and that's something that encourage me to solve them. Oh, and I work with agile methodologies too.
+🎮 I'm really passionate about several things but... two of those things are: Programming and videogames. I'm a graduated Full Stack Developer, while leaning more on the Front end I have a strong foundation in Back end and constantly improving my skills in both. For me almost everything is a puzzle to solve and that's something that encourage me to solve them. Oh, and I work with agile methodologies too.
          
-🏆 I've met some amazing people so far, and I've had the privilage to code with some of them which was a really fulfilling experience that helped me with grown as a person and as a developer.
+🏆 I've met some amazing people so far, and I've had the privilage to code with some of them which was a really fulfilling experience that helped me grow as a person and as a developer.
 </br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
          
 🎓 Full Stack Developer & Bachelor's degree in gastronomy.
          
-🌱 I’m currently learning about AI and Machine Learning, and also I'm continously improving my current skills working in personal projects.
+🌱 I’m currently learning about Spec Driven Developement and Mobile Development, and also I'm continously improving my current skills working in personal projects.
 
 🕹 My hobbies are playing videogames, coding, reading(about different topics), and watching series and movies.
 
-📫 You can email me at: daniel.novelo.dev@gmail.com
+📫 You can email me at: dani@xpression.live
          
 </div>
 
@@ -26,9 +26,13 @@
 
 ### 🛠️ Tech Stack:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Payload CMS Badge](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -55,7 +59,7 @@
 <div align='center'>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcn96/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"daniel.novelo.dev@gmail.com")
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"dani@xpression.live")
 
  </div>
 
