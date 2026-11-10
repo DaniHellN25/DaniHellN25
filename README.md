@@ -7,14 +7,14 @@
 
 <div align='left'>
          
-🎮 I'm really passionate about several things but... two of those things are: Programming and videogames. I'm a graduated Full Stack Developer, while I consolidated myself as a Frontend I have a strong foundation in Back end and constantly improving my skills in both. For me almost everything is a puzzle to solve and that's something that encourage me to solve them. Oh, and I work with agile methodologies too.
+🎮 I'm really passionate about several things but... two of those things are: Programming and videogames. I'm a Frontend Engineer with a strong foundation in backend development, constantly improving my skills across both. For me almost everything is a puzzle to solve and that's something that encourage me to solve them. Oh, and I work with something call IA, I think it may be the great next thing after the Internet.
          
 🏆 I've met some amazing people so far, and I've had the privilage to code with some of them which was a really fulfilling experience that helped me grow as a person and as a developer.
 </br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
          
 🎓 Full Stack Developer & Bachelor's degree in gastronomy.
          
-🌱 I’m currently learning about Spec Driven Developement and Mobile Development, and also I'm continously improving my current skills working in personal projects.
+🌱 I’m currently learning more about Cloud Infrastructure and Mobile Development, and also I'm continuously improving my current skills working in personal projects.
 
 🕹 My hobbies are playing videogames, coding, reading(about different topics), and watching series and movies.
 
